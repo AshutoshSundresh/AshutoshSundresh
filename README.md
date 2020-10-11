@@ -1,6 +1,11 @@
-### Hi there 👋
-
-[![AshutoshSundresh gitstats](https://github-readme-stats.vercel.app/api?username=AshutoshSundresh&layout=compact&theme=calm&count_private=true)](https://github.com/AshutoshSundresh)
-
-
-![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshSundresh&layout=large&theme=calm&count_private=true)
+<p align="center">
+	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
+<p align="center"><strong>Loading stats...</strong></p>
+<p align="center">If stats aren't loading, check GitHub servers status.</p>
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
+</p>
+<p></p>
+<p></p>
+</p>
