@@ -21,4 +21,25 @@ These are the programming languages I've been using the most in my recent projec
 
 If you want to reach out to me or learn more about my work, feel free to check out my [website](https://ashutoshsundrsh.github.io/) or connect with me on [LinkedIn](https://www.linkedin.com/in/ashutosh-sundresh-763021221/) or [Twitter](https://twitter.com/ASundresh/).
 
-Thanks for stopping by!
+## 📈 View my stats!
+
+  <br>
+  <p align="center">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AshutosHSundresh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=onedark" />
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshSundresh&layout=compact&theme=onedark&langs_count=8&hide_border=true&hide=jupyter%20notebook" />
+  </p>
+  <br>
+  <p align="center">
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=AshutoshSundresh&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshutoshSundresh&theme=monokai" />
+  </p>
+  <br>
+  <p align="center">
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshutoshSundresh&theme=monokai" />
+   <img height="30em" />
+    <img height="150em" src="https://github-profile-trophy.vercel.app/?username=AshutoshSundresh&row=1&theme=onedark&margin-w=15&margin-h=15&hide_border=true" />
+  </p>
+  <br>
+  <p align="center">
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshutoshSundresh&theme=monokai" />
+  </p>
