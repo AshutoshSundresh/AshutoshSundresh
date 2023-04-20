@@ -34,7 +34,6 @@ If you want to reach out to me or learn more about my work, feel free to check o
   </p>
   <br>
   <p align="center">
-   <img height="30em" />
     <img height="150em" src="https://github-profile-trophy.vercel.app/?username=AshutoshSundresh&row=1&theme=onedark&margin-w=15&margin-h=15&hide_border=true" />
   </p>
   <br>
