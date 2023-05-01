@@ -25,18 +25,18 @@ If you want to reach out to me or learn more about my work, feel free to check o
 
   <br>
   <p align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AshutosHSundresh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=onedark" />
-    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=AshutoshSundresh&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AshutosHSundresh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=AshutoshSundresh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=dracula" />
   </p>
   <br>
   <p align="center">
-    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshutoshSundresh&theme=monokai" />
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshutoshSundresh&theme=dracula" />
   </p>
   <br>
   <p align="center">
-    <img height="150em" src="https://github-profile-trophy.vercel.app/?username=AshutoshSundresh&row=1&theme=onedark&margin-w=15&margin-h=15&hide_border=true" />
+    <img height="150em" src="https://github-profile-trophy.vercel.app/?username=AshutoshSundresh&row=1&margin-w=15&margin-h=15&hide_border=true&theme=dracula" />
   </p>
   <br>
   <p align="center">
-    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshutoshSundresh&theme=monokai" />
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshutoshSundresh&theme=dracula" />
   </p>
