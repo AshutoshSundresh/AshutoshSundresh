@@ -6,7 +6,7 @@ I'm a high school student who loves to create innovative and impactful projects.
 
 - [ShapeShiftOS](https://github.com/ShapeShiftOS): Founder of an open-source custom ROM for Android devices. It's based on the Android Open Source Project (AOSP) and aims to provide a more customizable and optimized user experience for Android users.
 - [Shiv Nadar School MUN Website](https://github.com/snsfmun/snsfmun.github.io): Built from scratch using HTML, CSS, and JavaScript and was used by everyone participating in the conference (approximately 90 delegates). Includes information about the MUN, registrations, agendas for each committee, important documents, and a gallery.
-- [MUN Research Website](https://munresearch/munresearch.github.io): Built using HTML and JavaScript and can help delegates around the world jumpstart their MUN research.
+- [MUN Research Website](https://github.com/munresearch/munresearch.github.io): Built using HTML and JavaScript and can help delegates around the world jumpstart their MUN research.
 - [Food Menu Alexa Skill](https://github.com/AshutoshSundresh/SoulfairProject): An Alexa Skill to read out the school food menu based on prompts and made it to the final round of SNSF Soulfest 2022 and won the “Best Showcase of STEAM” award. (Written in JavaScript based on NodeJS)
 - [Organization Stars  SVG](https://github.com/AshutoshSundresh/organization-starS): A Flask Web Application that generates an SVG showing the total number of stars for a given GitHub organization to quickly showcase the popularity of an organization on a README file or similar.
 
