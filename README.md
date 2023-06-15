@@ -1,4 +1,4 @@
-# Hi there, I'm [Ashutosh Sundresh](https://ashutoshsundresh.github.io/) 👋
+# Hi there, I'm [Ashutosh Sundresh](https://ashutoshsundresh.com/) 👋
 
 I'm a high school student who loves to create innovative and impactful projects. Welcome to my GitHub profile! Here you can find some of my most relevant repositories and get an idea of the languages I usually work with.
 
