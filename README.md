@@ -24,20 +24,9 @@ If you want to reach out to me or learn more about my work, feel free to check o
 
 ## 📈 View my stats!
 
-  <br>
-  <p align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AshutosHSundresh&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide-border=true&theme=dracula" />
-    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=AshutoshSundresh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=dracula" />
-  </p>
-  <br>
-  <p align="center">
-    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshutoshSundresh&hide_border=true&theme=dracula" />
-  </p>
-  <br>
-  <p align="center">
-    <img height="150em" src="https://github-profile-trophy.vercel.app/?username=AshutoshSundresh&row=1&margin-w=15&margin-h=15&hide_border=true&theme=dracula" />
-  </p>
-  <br>
-  <p align="center">
-    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshutoshSundresh&hide_border=true&theme=dracula" />
-  </p>
+
+| ![](https://github-readme-stats.vercel.app/api?username=ashutoshsundresh&show_icons=true&include_all_commits=true&theme=nord) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashutoshsundresh&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashutoshsundresh&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutoshsundresh&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ashutoshsundresh&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
