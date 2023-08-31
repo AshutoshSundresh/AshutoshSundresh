@@ -20,13 +20,4 @@ These are the programming languages I've been using the most in my recent projec
 
 ## 📫 Let's connect!
 
-If you want to reach out to me or learn more about my work, feel free to check out my [website](https://ashutoshsundrsh.github.io/) or connect with me on [LinkedIn](https://www.linkedin.com/in/ashutosh-sundresh-763021221/) or [Twitter](https://twitter.com/ASundresh/).
-
-## 📈 View my stats!
-
-
-| ![](https://github-readme-stats.vercel.app/api?username=ashutoshsundresh&show_icons=true&include_all_commits=true&theme=nord) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashutoshsundresh&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashutoshsundresh&theme=nord_dark) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutoshsundresh&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ashutoshsundresh&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
+If you want to reach out to me or learn more about my work, feel free to check out my [website](https://ashutoshsundrsh.com/) or connect with me on [LinkedIn](https://www.linkedin.com/in/ashutosh-sundresh-763021221/) or [Twitter](https://twitter.com/ASundresh/).
