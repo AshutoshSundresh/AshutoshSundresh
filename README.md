@@ -9,6 +9,7 @@ I'm a high school student who loves to create innovative and impactful projects.
 - [MUN Research Website](https://github.com/munresearch/munresearch.github.io): Built using HTML and JavaScript and can help delegates globally jumpstart their MUN research.
 - [Food Menu Alexa Skill](https://github.com/AshutoshSundresh/SoulfairProject): An Alexa Skill to read out the school food menu based on prompts. Made it to the final round of SNSF Soulfest 2022 and won the “Best Showcase of STEAM” award. (Written in JavaScript based on NodeJS)
 - [Organization Stars  SVG](https://github.com/AshutoshSundresh/organization-starS): A Flask Web Application that generates an SVG showing the total number of stars for a given GitHub organization to quickly showcase the popularity of an organization on a README file or similar.
+- [Japa Mala Counter Widget](https://github.com/AshutoshSundresh/counter-widget): Built using HTML and JavaScript. Increments count with a simple clicker, along with support for rounds for every 108 counts. Also includes an image of a Mala that updates with each click.
 
 ## 🌱 My top languages
 
