@@ -1,6 +1,6 @@
 # Hi there, I'm [Ashutosh Sundresh](https://ashutoshsundresh.com/) 👋
 
-I'm a high school student who loves to create innovative and impactful projects. Welcome to my GitHub profile! Here you can find some of my most relevant repositories and get an idea of the languages I usually work with.
+I'm an undergraduate student at UCLA, class of 2028, majoring in Computer Science who loves to create innovative and impactful projects. Welcome to my GitHub profile! Here you can find some of my most relevant repositories and get an idea of the languages I usually work with.
 
 ## 🔭 My public projects
 
