@@ -2,7 +2,7 @@
 
 I'm an undergraduate student at UCLA, class of 2028, majoring in Computer Science who loves to create innovative and impactful projects. Welcome to my GitHub profile! Here you can find some of my most relevant repositories and get an idea of the languages I usually work with.
 
-## 🔭 My public projects
+## 🔭 My projects
 
 - [ShapeShiftOS](https://shapeshiftos.com): Founder of an open-source custom ROM for Android devices. Based on the Android Open Source Project (AOSP) and aims to provide a more customizable and optimized user experience for Android users.
 - [Shiv Nadar School MUN Website](https://github.com/snsfmun/snsfmun.github.io): Built from scratch using HTML, CSS, and JavaScript and was used by everyone participating in the conference (approximately 250+ delegates). Includes information about the MUN, registrations, agendas for each committee, important documents, and a gallery.
