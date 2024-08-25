@@ -9,7 +9,7 @@ I'm an undergraduate student at UCLA, class of 2028, majoring in Computer Scienc
 - [MUN Research Website](https://github.com/munresearch/munresearch.github.io): Built using HTML and JavaScript and can help delegates globally jumpstart their MUN research.
 - [Food Menu Alexa Skill](https://github.com/AshutoshSundresh/SoulfairProject): An Alexa Skill to read the school food menu based on prompts. Made it to the final round of SNSF Soulfest 2022 and won the “Best Showcase of STEAM” award. (Written in JavaScript using NodeJS environment)
 - [Organization Stars Counter](https://github.com/AshutoshSundresh/organization-starS): A FastAPI Python Application deployed as a serverless function on Vercel that generates a badge showing the total number of stars for a given GitHub organization to quickly showcase the popularity of an organization on a README file or similar.
-- [Japa Mala Counter Widget](https://github.com/AshutoshSundresh/counter-widget): Built using HTML and JavaScript. Increments count with a simple clicker and support for rounds for every 108 counts. It also includes an image of a Mala that updates with each click.
+- [Japa Mala Counter Widget](https://github.com/AshutoshSundresh/counter-widget): Built using HTML and JavaScript for dheepam.net. Increments count with a simple clicker and support for rounds for every 108 counts. It also includes an image of a Mala that updates with each click.
 
 ## 🌱 My top languages
 
