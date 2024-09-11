@@ -21,4 +21,4 @@ These are the programming languages I've been using the most in my recent projec
 
 ## 📫 Let's connect!
 
-If you want to reach out to me or learn more about my work, feel free to check out my [website](https://ashutoshsundresh.com/) or connect with me on [LinkedIn](https://www.linkedin.com/in/ashutosh-sundresh-763021221/) or [Twitter/X](https://twitter.com/ASundresh/).
+If you want to reach out to me or learn more about my work, feel free to check out my [website](https://ashutoshsundresh.com/) or connect with me on [LinkedIn](https://www.linkedin.com/in/asundresh/) or [Twitter/X](https://twitter.com/ASundresh/).
