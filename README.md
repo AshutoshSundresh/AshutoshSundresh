@@ -1,6 +1,6 @@
 # Hi there, I'm [Ashutosh Sundresh](https://ashutoshsundresh.com/) 👋
 
-I'm an undergraduate student at UCLA, majoring in Computer Science (class of 2028). Feel free to explore my profile to see what I work on, and contribute if you’re interested!
+I'm an undergraduate student at UCLA, majoring in Computer Science. Feel free to explore my profile to see what I work on, and contribute if you’re interested!
 
 ## 🔭 My projects
 
