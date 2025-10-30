@@ -2,13 +2,14 @@
 
 I'm an undergraduate student at UCLA, majoring in Computer Science. Feel free to explore my profile to see what I work on, and contribute if you’re interested!
 
-## 🔭 My projects
+## 🔭 My work
 
-- [ShapeShiftOS](https://shapeshiftos.com): Founder of an open-source Android-based mobile operating system for Qualcomm chipset devices. It aims to provide a more customizable and optimized user experience for Android users.
+- [Harvey](https://harvey.ai): Worked as the youngest intern at Harvey where I led the agentic workflows feature for Harvey Word Add-In ([Kleiner Perkins Fellows '25](https://kleinerperkins.com/fellows)).
+- [ShapeShiftOS](https://shapeshiftos.com): Founder of an open-source Android-based mobile operating system for Qualcomm chipset devices with 150,000+ downloads from 160+ countries. It aims to provide a more customizable and optimized user experience.
 
 <details>
 
-<summary>Projects from High School</summary>
+<summary>Miscellaneous Projects from High School</summary>
                                     
 - [Shiv Nadar School MUN Website](https://github.com/snsfmun/snsfmun.github.io): Built from scratch using HTML, CSS, and JavaScript and was used by everyone participating in the conference (approximately 250+ delegates). Includes information about the MUN, registrations, agendas for each committee, important documents, and a gallery.
 - [MUN Research Website](https://munresearch.vercel.app): Built using TypeScript, Next.js, and deployed on Vercel. Uses Google's Programmable Search Engine on UN and Reuters, World Bank API for country information, a custom JSON file that identifies countries and assigns a flag emoji based on ISO code, and a DOMParser on the XML response from arXiv to display research papers.
@@ -21,11 +22,10 @@ I'm an undergraduate student at UCLA, majoring in Computer Science. Feel free to
 
 These are the programming languages I've been using the most in my recent projects:
 
-1. Java
-2. C++
-3. TypeScript
-4. Python
-5. JavaScript
+1. Python
+2. TypeScript
+3. C++
+4. Java
 
 ## 📫 Let's connect!
 
