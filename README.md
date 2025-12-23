@@ -5,7 +5,9 @@ I'm an undergraduate student at UCLA, majoring in Computer Science. Feel free to
 ## 🔭 My work
 
 - [Harvey](https://harvey.ai): Worked as the youngest intern at Harvey where I led the agentic workflows feature for Harvey's Microsoft Word add-in ([Kleiner Perkins Fellows '25](https://kleinerperkins.com/fellows)).
-- [ShapeShiftOS](https://shapeshiftos.com): Founder of an open-source Android-based mobile operating system for Qualcomm chipset devices with 150,000+ downloads across 160+ countries. 
+- [ShapeShiftOS](https://shapeshiftos.com): Founder of an open-source Android-based mobile operating system for Qualcomm chipset devices with 150,000+ downloads across 160+ countries.
+- [ResumeIDE](https://www.github.com/ashutoshsundresh/latex-resume-editor): Desktop LaTeX editor with live preview (Rust/Tauri/React)
+
 <details>
 
 <summary>Miscellaneous Projects from High School</summary>
