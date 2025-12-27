@@ -1,8 +1,8 @@
-# Hi there, I'm [Ashutosh Sundresh](https://ashutoshsundresh.com/) 👋
+# Hi there, I'm [Ashutosh Sundresh](https://ashutoshsundresh.com/) 
 
 I'm an undergraduate student at UCLA, majoring in Computer Science. Feel free to explore my profile to see what I work on, and contribute if you’re interested!
 
-## 🔭 My work
+## My work
 
 - [Harvey](https://harvey.ai): Worked as the youngest intern at Harvey where I led the agentic workflows feature for Harvey's Microsoft Word add-in ([Kleiner Perkins Fellows '25](https://kleinerperkins.com/fellows)).
 - [ShapeShiftOS](https://shapeshiftos.com): Founder of an open-source Android-based mobile operating system for Qualcomm chipset devices with 150,000+ downloads across 160+ countries.
@@ -20,13 +20,13 @@ I'm an undergraduate student at UCLA, majoring in Computer Science. Feel free to
 
 </details>
 
-## 🌱 My top languages
+## My top languages
 
 1. Python
 2. TypeScript
 3. C++
 4. Java
 
-## 📫 Let's connect!
+## Let's connect!
 
 Check out my [website](https://ashutoshsundresh.com/) or connect with me on [LinkedIn](https://www.linkedin.com/in/asund/) or [Twitter/X](https://twitter.com/ASundresh/).
