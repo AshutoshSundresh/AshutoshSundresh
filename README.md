@@ -6,7 +6,7 @@ I'm an undergraduate student at UCLA, majoring in Computer Science. Feel free to
 
 - [Harvey](https://harvey.ai): Worked as the youngest intern at Harvey where I led the agentic workflows feature for Harvey's Microsoft Word add-in ([Kleiner Perkins Fellows '25](https://kleinerperkins.com/fellows)).
 - [ShapeShiftOS](https://shapeshiftos.com): Founder of an open-source Android-based mobile operating system for Qualcomm chipset devices with 160,000+ downloads across 160+ countries.
-- [ResumeIDE](https://www.github.com/ashutoshsundresh/latex-resume-editor): Native desktop LaTeX editor app with live PDF preview (Rust/Tauri/React).
+- [ResumeIDE](https://www.github.com/ashutoshsundresh/latex-resume-editor): Native desktop LaTeX editor app with live PDF compilation and preview (Rust/Tauri/React).
 - [MiniR](https://github.com/AshutoshSundresh/MiniR-Holly-Hock2): R-like interpreter and REPL with custom lexer/parser/evaluator for embedded devices, specifically fx-CP400 family of calculators (C++).
 
 <details>
@@ -14,7 +14,6 @@ I'm an undergraduate student at UCLA, majoring in Computer Science. Feel free to
 <summary>Miscellaneous Projects from High School</summary>
                                     
 - [Shiv Nadar School Model United Nations Website](https://github.com/snsfmun/snsfmun.github.io): Static site (HTML/CSS/JS) used by ~250 delegates with registration, committees, docs, gallery.
-- [Model United Nations Research Website](https://munresearch.vercel.app): Next.js/TypeScript tool deployed on Vercel using Google Programmable Search Engine, World Bank API, ISO-flag mapping, and arXiv XML parsing.
 - [Food Menu Alexa Skill](https://github.com/AshutoshSundresh/AlexaFoodMenuSkill): Voice interface for daily school menu (Node.js, AWS Lambda, Alexa SDK). Winner at Shiv Nadar School Soulfest 2022 (“Best Showcase of STEAM”).
 - [Organization Stars Counter](https://github.com/AshutoshSundresh/organization-starS): FastAPI microservice deployed on Vercel that generates real-time star badges for GitHub organizations.
 - [Japa Mala Counter Widget](https://github.com/AshutoshSundresh/counter-widget): Click-based counter (Next.js/TypeScript/NextUI) with 108-round tracking and dynamic Mala visuals for dheepam.net.
